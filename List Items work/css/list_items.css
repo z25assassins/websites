@@ -1,0 +1,17 @@
+li {
+	list-style-type:none;
+	display:inline-block;
+	margin: 10px;
+	padding: 10px;
+	background: #eee;
+	
+	
+}
+
+#wrapper {
+	width: 850px;
+	margin: auto;
+	padding: 0px;
+	text-align: left;
+	background: white;
+}
